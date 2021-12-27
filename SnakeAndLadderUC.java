@@ -42,5 +42,7 @@ public class SnakeAndLadderUC {
                 System.out.println("Final position of player: " + playerPosition);
             }
         }
+
+        System.out.println("Player is at initial position: " + startPosition);	
     }
 }
